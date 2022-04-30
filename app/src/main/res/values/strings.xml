@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Inmobiliaria pamela</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="Perfil">Perfil</string>
+    <string name="Inmuebles">Inmuebles</string>
+    <string name="Inquilinos">Inquilinos</string>
+    <string name="Contratos">Contratos</string>
+    <string name="Pagos">Pagos</string>
+    <string name="Logout">Salir</string>
+    <string name="Cerrar_sesión">Cerrar sesión</string>
+    <string name="Pago">Pago</string>
+    <string name="Contrato">Contrato</string>
+    <string name="Inmueble">Inmueble</string>
+    <string name="Inquilio">Inquilino</string>
+    <string name="tituloPortada">Inmobiliaria\nPamela</string>
+    <string name="datosDeUsuario">Datos del Usuario</string>
+    <string name="listaDeInmuebles">Lista de Inmuebles</string>
+    <string name="datosDeInmueble">Datos del Inmueble</string>
+    <string name="listaDeInquilinos">Lista de Inquilinos</string>
+    <string name="datosDelInquilino">Datos del Inquilino</string>
+    <string name="listaDeContratos">Lista de Contratos</string>
+    <string name="datosDelContrato">Datos del Contrato</string>
+    <string name="pagosDeContrato">Pagos de Un Contrato</string>
+    <string name="alertaCerrar">\nEstas seguro de cerrar tu sesión? \n</string>
+    <string name="alertaSalir">Salir de Inmobiliaria Pamela</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="infoInq">Información del Inquilino\n</string>
+    <string name="aquiEstamos">Nuestra Ubicación</string>
+</resources>
